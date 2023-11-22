@@ -19,7 +19,7 @@ font-family: sans-serif;
 
 li a{
    text-decoration: none;
-    color:rgb(255, 255, 255);
+    color:rgba(0, 0, 0, 0.633);
     transition: 0.8s;
 
 }
@@ -30,14 +30,15 @@ header{
     
    
    height: 80px;
-   background-color: #808080;
+   background-color: #ffffff;
 
 
 }
 
 ul li :hover{
     transition: 0.4s;
-    color: rgba(0, 0, 0, 0.658);
+    color:rgb(0, 0, 0);
+    
 }
 
 
@@ -46,10 +47,13 @@ float: left;
 font-size: 35px;
 margin-left: 35px;
 margin-top: 25px;
-color:rgb(255, 255, 255);
-font-style: oblique;
+color:rgba(0, 0, 0, 0.955);
+font-style: italic;
+font-weight: 400;
 
 }
+
+
 
 
 
@@ -79,9 +83,9 @@ html {
 }
 
 
-
-
-
-
+.page1-welcome{
+   
+    height: 550px;
+}
 
 
